@@ -1,4 +1,7 @@
 ### VFX Bookmarks
+- https://github.com/OpenImageIO/oiio
+  - Open Image IO
+    [python imagebuf algo tests](https://github.com/OpenImageIO/oiio/blob/master/testsuite/python-imagebufalgo/test_imagebufalgo.py)
 - https://github.com/ImageEngine/qLib  
 - https://github.com/ImageEngine/gaffer  
   - Gaffer
