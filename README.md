@@ -1,4 +1,5 @@
 ### VFX Bookmarks
+###### Libraries
 - https://github.com/ocornut/imgui
   - ImGUI -- Immediate GUI
 - https://github.com/OpenImageIO/oiio
@@ -26,3 +27,9 @@
   - VFX algorithms  
 - https://github.com/Itseez/opencv  
   - Open Computer Vision  
+
+###### Houdini Bookmarks  
+- [hom-cookbook](http://www.sidefx.com/docs/houdini14.0/hom/cookbook/)
+- [pcopen](http://www.sidefx.com/docs/houdini15.0/vex/functions/pcopen)
+- [wrangle-nodes@ap](http://www.animated-pixels.com/articles-db/2015/9/14/wrangle-nodes) -- [animated-pixels](http://www.animated-pixels.com)
+- [wrangle-nodes@ht](http://houdinitricks.com/post/114520785099/quicktip-cvex-wrangle-vop-nodes) -- [houdinitricks](http://houdinitricks.com/)
