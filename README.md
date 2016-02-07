@@ -29,6 +29,7 @@
   - Open Computer Vision  
 
 ###### Houdini Bookmarks  
+- [bwdesign-tutorials](https://vimeo.com/bwdesign)
 - [hom-cookbook](http://www.sidefx.com/docs/houdini14.0/hom/cookbook/)
 - [pcopen](http://www.sidefx.com/docs/houdini15.0/vex/functions/pcopen)
 - [wrangle-nodes@ap](http://www.animated-pixels.com/articles-db/2015/9/14/wrangle-nodes) -- [animated-pixels](http://www.animated-pixels.com)
