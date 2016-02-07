@@ -37,3 +37,5 @@
 
 ###### Programming Bookmarks
 - [reactive-programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+- [tensorflow](https://www.tensorflow.org/)
+- [airflow](http://nerds.airbnb.com/airflow/)
