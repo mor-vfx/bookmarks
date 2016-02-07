@@ -34,3 +34,6 @@
 - [wrangle-nodes@ap](http://www.animated-pixels.com/articles-db/2015/9/14/wrangle-nodes) -- [animated-pixels](http://www.animated-pixels.com)
 - [wrangle-nodes@ht](http://houdinitricks.com/post/114520785099/quicktip-cvex-wrangle-vop-nodes) -- [houdinitricks](http://houdinitricks.com/)
 - [pyside-guis](http://www.sidefx.com/docs/houdini14.0/hom/cookbook/qt/)
+
+###### Programming Bookmarks
+- [reactive-programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
